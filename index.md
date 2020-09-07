@@ -29,8 +29,8 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ---------------
 ### ***Conference Papers***
   
-+ **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module. **(**Oral**)
-  <br>Yanlu Wei*, **Renshuai Tao\***, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu.(* indicates equal contributions)
++ **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module. (Oral)**
+  <br>Yanlu Wei\*, **Renshuai Tao\***, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu.(\* indicates equal contributions)
   <br>ACM International Conference on Multimedia (**ACM MM** 2020)
   <br>\[[pdf](https://arxiv.org/pdf/2004.08656.pdf)\] \[[code](https://github.com/OPIXray-author/OPIXray)\] 
   
@@ -38,7 +38,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ### ***Journal Papers***
 
 + **Fast Nearest Subspace Search via Random Angular Hashing**
-  <br>Yi Xu, Xianglong Liu, Binshuai Wang, **Renshuai Tao**, Ke Xia, Xianbin Cao
+  <br>Yi Xu, Xianglong Liu, Binshuai Wang, **Renshuai Tao**, Ke Xia, Xianbin Cao.
   <br>IEEE Transactions on Multimedia (**TMM**).
   <br>\[[pdf](https://ieeexplore.ieee.org/abstract/document/9019840)\]
 
