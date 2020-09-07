@@ -1,4 +1,4 @@
-## Brief Bio
+## Renshuai Tao (陶仁帅)
 -----------
 ***2nd year Ph.D. Candidate***
 
