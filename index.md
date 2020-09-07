@@ -16,8 +16,8 @@ I am currently a Ph.D candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Bei
 
 ## Updates
 ---------------
-+ July, 2020: One paper accepted for [ACM MM 2020](https://2020.acmmm.org/) (**Oral**)
-+ May, 2020: One paper accepted for IEEE TMM.
++ July, 2020: One paper accepted for [**ACM MM 2020**](https://2020.acmmm.org/) (**Oral**)
++ May, 2020: One paper accepted for **IEEE TMM**.
 
 ## Reseach Interests
 ---------------
@@ -30,7 +30,7 @@ My research interests include some sub-fields of ***Computer Vision*** and ***De
 ### ***Conference Papers***
   
 + **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module. **(**Oral**)
-  <br>Yanlu Wei*, **Renshuai Tao**\*, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu.(* indicates equal contributions)
+  <br>Yanlu Wei*, **Renshuai Tao\***, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu.(* indicates equal contributions)
   <br>ACM International Conference on Multimedia (**ACM MM** 2020)
   <br>\[[pdf](https://arxiv.org/pdf/2004.08656.pdf)\] \[[code](https://github.com/OPIXray-author/OPIXray)\] 
   
