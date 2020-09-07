@@ -24,9 +24,9 @@ I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Be
 My research interests include some sub-fields of ***Computer Vision*** and ***Deep Learning***:
 + **X-ray Image Detection**: Security Inspection, Prohibited Items Detection
 + **Small Object Detection**
+
 ## Publications
 ---------------
-
 ### ***Conference Papers***
   
 + **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module.**(**oral**)
