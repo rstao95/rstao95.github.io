@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+## Brief Bio
+-----------
+***2nd year Ph.D. Candidate***
 
-You can use the [editor on GitHub](https://github.com/rstao1995/rstao.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[State Key Laboratory of Software Development Environment](http://nlsde.buaa.edu.cn)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+School of Computer Science and Engineering, Beihang University, China
 
-### Markdown
+Email: rstao AT buaa DOT edu DOT cn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Address: Room G602, New Main Building, No.37 Xueyuan Rd., Beijing, China
 
-```markdown
-Syntax highlighted code block
+## About Me
+---------------
+I am currently a Ph.D. candidate in [NLSDE](http://www.nlsde.buaa.edu.cn) at [Beihang University](http://www.buaa.edu.cn), advised by [Prof. Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and [Prof. Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/). Before that, I received my B.Sc. degree in Computer Science and Technology in 2013 in Beihang University.
 
-# Header 1
-## Header 2
-### Header 3
+## Updates
+---------------
++ July, 2020: One paper accepted for [ACM MM 2020](https://2020.acmmm.org/)(**oral**)
++ May, 2020: One paper accepted for IEEE TMM.
 
-- Bulleted
-- List
+## Reseach Interests
+---------------
+My research interests include some sub-fields of ***Computer Vision*** and ***Deep Learning***:
++ **X-ray Image Detection**: Security Inspection, Prohibited Items Detection
++ **Small Object Detection**
+## Publications
+---------------
 
-1. Numbered
-2. List
+### ***Conference Papers***
+  
++ **Occluded Prohibited Items Detection: An X-ray Security Inspection Benchmark and De-occlusion Attention Module.**(**oral**)
+  <br>Yanlu Wei, **Renshuai Tao**, Zhangjie Wu, Yuqing Ma, Libo Zhang, Xianglong Liu
+  <br>ACM International Conference on Multimedia (**ACM MM** 2020)
+  <br>\[[pdf](https://arxiv.org/pdf/2004.08656.pdf)\] \[[code](https://github.com/OPIXray-author/OPIXray)\] 
+  
 
-**Bold** and _Italic_ and `Code` text
+### ***Journal Papers***
 
-[Link](url) and ![Image](src)
-```
++ **Fast Nearest Subspace Search via Random Angular Hashing**
+  <br>Yi Xu, Xianglong Liu, Binshuai Wang, **Renshuai Tao**, Ke Xia, Xianbin Cao
+  <br>IEEE Transactions on Multimedia (**TMM**).
+  <br>\[[pdf](https://ieeexplore.ieee.org/abstract/document/9019840)\]
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Main Awards & Honors
+---------------
++ New PhD Student Scholarship(12/150), Beihang University, 2019.09.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rstao1995/rstao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Education
+---------------
++ Sep. 2019 - Present
+    + Ph.D. student in Computer Science, School of Computer Science and Engineering, Beihang University
+    + Advisor: Profs. [Wei Li](http://sites.nlsde.buaa.edu.cn/~liwei/) and co-advised by Profs. [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
+  
++ Sep. 2018 - Jan. 2019
+    + Master student in Computer Science, School of Computer Science and Engineering, Beihang University
+    + Advisor: Profs. Baolin Yin
+  
++ Sep. 2013 - Jun. 2017
+    + B.Sc in Computer Science, School of Computer Science and Engineering, Beihang University
+  
+## Main Co-authors
+---------------
++ [Xianglong Liu](http://sites.nlsde.buaa.edu.cn/~xlliu/)
